@@ -1,0 +1,47 @@
+[31-Oct-2014 20:45:25 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[31-Oct-2014 20:46:14 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[31-Oct-2014 20:47:17 America/Chicago] PHP Fatal error:  Class 'Facebook\GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 85
+[31-Oct-2014 20:49:01 America/Chicago] PHP Warning:  require_once(autoload.php): failed to open stream: No such file or directory in /home2/levorion/public_html/yh/yh.php on line 6
+[31-Oct-2014 20:49:01 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'autoload.php' (include_path='.:/opt/php54/lib/php') in /home2/levorion/public_html/yh/yh.php on line 6
+[31-Oct-2014 20:49:06 America/Chicago] PHP Warning:  require_once(autoload.php): failed to open stream: No such file or directory in /home2/levorion/public_html/yh/yh.php on line 6
+[31-Oct-2014 20:49:06 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'autoload.php' (include_path='.:/opt/php54/lib/php') in /home2/levorion/public_html/yh/yh.php on line 6
+[31-Oct-2014 20:49:09 America/Chicago] PHP Warning:  require_once(autoload.php): failed to open stream: No such file or directory in /home2/levorion/public_html/yh/yh.php on line 6
+[31-Oct-2014 20:49:09 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'autoload.php' (include_path='.:/opt/php54/lib/php') in /home2/levorion/public_html/yh/yh.php on line 6
+[31-Oct-2014 20:49:10 America/Chicago] PHP Warning:  require_once(autoload.php): failed to open stream: No such file or directory in /home2/levorion/public_html/yh/yh.php on line 6
+[31-Oct-2014 20:49:10 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'autoload.php' (include_path='.:/opt/php54/lib/php') in /home2/levorion/public_html/yh/yh.php on line 6
+[31-Oct-2014 20:50:04 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[31-Oct-2014 21:00:34 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[31-Oct-2014 21:02:58 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[31-Oct-2014 21:03:14 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[31-Oct-2014 21:06:35 America/Chicago] PHP Fatal error:  Class 'FacebookCanvasLoginHelper' not found in /home2/levorion/public_html/yh/yh.php on line 52
+[31-Oct-2014 21:06:36 America/Chicago] PHP Fatal error:  Class 'FacebookCanvasLoginHelper' not found in /home2/levorion/public_html/yh/yh.php on line 52
+[31-Oct-2014 21:06:38 America/Chicago] PHP Fatal error:  Class 'FacebookCanvasLoginHelper' not found in /home2/levorion/public_html/yh/yh.php on line 52
+[31-Oct-2014 21:26:42 America/Chicago] PHP Fatal error:  Class 'FacebookCanvasLoginHelper' not found in /home2/levorion/public_html/yh/yh.php on line 52
+[31-Oct-2014 21:26:45 America/Chicago] PHP Fatal error:  Class 'FacebookCanvasLoginHelper' not found in /home2/levorion/public_html/yh/yh.php on line 52
+[31-Oct-2014 21:27:54 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[31-Oct-2014 21:29:09 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[31-Oct-2014 22:02:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'yeshello' (T_STRING), expecting ',' or ';' in /home2/levorion/public_html/yh/yh.php on line 100
+[31-Oct-2014 22:10:17 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/levorion/public_html/yh/yh.php on line 121
+[31-Oct-2014 22:13:16 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home2/levorion/public_html/yh/basicform.php on line 9
+[31-Oct-2014 22:13:32 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home2/levorion/public_html/yh/basicform.php on line 9
+[31-Oct-2014 22:24:35 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[31-Oct-2014 23:25:35 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[31-Oct-2014 23:37:28 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home2/levorion/public_html/yh/form.php on line 9
+[31-Oct-2014 23:39:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/levorion/public_html/yh/form.php on line 8
+[31-Oct-2014 23:39:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/levorion/public_html/yh/form.php on line 7
+[31-Oct-2014 23:39:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/levorion/public_html/yh/form.php on line 7
+[31-Oct-2014 23:39:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/levorion/public_html/yh/form.php on line 7
+[31-Oct-2014 23:39:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/levorion/public_html/yh/form.php on line 7
+[31-Oct-2014 23:39:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/levorion/public_html/yh/form.php on line 7
+[31-Oct-2014 23:40:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/levorion/public_html/yh/form.php on line 8
+[31-Oct-2014 23:40:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/levorion/public_html/yh/form.php on line 8
+[31-Oct-2014 23:40:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/levorion/public_html/yh/form.php on line 8
+[31-Oct-2014 23:40:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/levorion/public_html/yh/form.php on line 8
+[01-Nov-2014 00:02:47 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/levorion/public_html/yh/form.php on line 30
+[01-Nov-2014 00:03:25 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/levorion/public_html/yh/form.php on line 37
+[01-Nov-2014 00:05:00 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/levorion/public_html/yh/form.php on line 42
+[01-Nov-2014 22:37:34 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[01-Nov-2014 23:36:09 America/Chicago] PHP Fatal error:  Class 'GraphUser' not found in /home2/levorion/public_html/yh/yh.php on line 84
+[03-Nov-2014 13:52:40 America/Chicago] PHP Fatal error:  Can only throw objects in /home2/levorion/public_html/yh/tmhOAuthExample.php on line 40
+[03-Nov-2014 13:54:14 America/Chicago] PHP Fatal error:  Can only throw objects in /home2/levorion/public_html/yh/tmhOAuthExample.php on line 40
+[03-Nov-2014 13:54:17 America/Chicago] PHP Fatal error:  Can only throw objects in /home2/levorion/public_html/yh/tmhOAuthExample.php on line 40
